@@ -1,4 +1,5 @@
 # Calculadora de orçamento pessoal
+Ideal para o controle financeiro pessoal
 
 # Tecnologias utilizadas:
 
@@ -18,3 +19,4 @@ Props: passagem de dados e funções entre componentes ("pai para filho");
 Renderização Condicional: lógica para exibir diferentes partes da interface com base no estado da aplicação.
 
 # Link
+https://m-pires11.github.io/calculadora-pessoal/
